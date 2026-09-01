@@ -9,7 +9,7 @@ A production-ready single-cell machine learning and bio-enrichment pipeline desi
 
 ---
 
-## 🧬 Overview
+## Overview
 
 This study integrates high-dimensional single-cell RNA-sequencing (scRNA-seq) datasets with gradient boosted machine learning classifiers and hyper-geometric pathway enrichment to identify, benchmark, and functionally annotate key cell-type biomarkers.
 
@@ -48,7 +48,7 @@ The pipeline compares machine learning performance between **Full HVG Datasets (
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 1. **Dual Gene Matching Engine**: Resolves discrepancies between HGNC gene symbols and Ensembl IDs across single-cell AnnData objects and candidate biomarker tables.
 2. **10-Fold Stratified Cross-Validation Benchmark**:
@@ -63,7 +63,7 @@ The pipeline compares machine learning performance between **Full HVG Datasets (
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 t-cell biomarker study/
@@ -94,7 +94,7 @@ t-cell biomarker study/
 
 ---
 
-## 💻 Installation & Requirements
+## Installation & Requirements
 
 ### Prerequisites
 - **Python 3.9+**
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 The master pipeline can be executed for specific disease cohorts or run globally across all cohorts:
 
@@ -138,7 +138,7 @@ python master_tcell_biomarker_study.py all
 
 ---
 
-## 📊 Pipeline Outputs
+## Pipeline Outputs
 
 Running the pipeline populates each cohort directory with standardized CSV tables and high-resolution figures:
 
@@ -156,7 +156,7 @@ Running the pipeline populates each cohort directory with standardized CSV table
 
 ---
 
-## 🔬 Methodological Details
+## Methodological Details
 
 ### 1. Stratified 10-Fold Cross-Validation
 To eliminate data leakage and sample bias:
@@ -170,6 +170,6 @@ where $N$ is background genome size (20,000), $n$ is biomarker list length, $K$ 
 
 ---
 
-## 📜 License
+## License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
