@@ -1,0 +1,4 @@
+Biomarker Rank,Gene Symbol,OncoKB Role,Actionability Level,Functional Description,Rank Importance Score
+40,PIK3CD,Oncogene (OG),Level 1 (FDA Target),Phosphoinositide 3-Kinase Delta Catalytic Subunit,0.922
+245,ARID1A,Tumor Suppressor (TSG),Level 2 (Standard Care),SWI/SNF Chromatin Remodeling Complex Subunit,0.512
+371,MTOR,Oncogene (OG),Level 1 (FDA Target),PI3K/Akt/mTOR Nutrient & Growth Regulator,0.26

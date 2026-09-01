@@ -1,0 +1,14 @@
+Cell Types Identified:
+Regulatory T cells (Tregs): 2,168 cells (14.01%)
+Tem Temra Cytotoxic T-cells: 2,030 cells (13.12%)
+Tem Trm Cytotoxic T-cells: 1,717 cells (11.10%)
+Tcm Naive Helper T-cells: 1,624 cells (10.50%)
+Tem Effector Helper T-cells: 1,352 cells (8.74%)
+Trm Cytotoxic T-cells: 1,047 cells (6.77%)
+NK Cells: 866 cells (5.60%)
+Type 1 Helper T-cells (Th1): 824 cells (5.33%)
+CRTAM+ 
+γ
+δ
+γδ T-cells: 698 cells (4.51%)
+Type 17 Helper T-cells (Th17): 324 cells (2.09%)
